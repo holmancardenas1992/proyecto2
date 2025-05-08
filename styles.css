@@ -24,4 +24,13 @@ body {
   button:hover {
     background-color: #2980b9;
   }
+button {
+    background-color: #3498db;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 16px;
+  }
   
